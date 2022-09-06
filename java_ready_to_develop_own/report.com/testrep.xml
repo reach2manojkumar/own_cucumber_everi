@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="2" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="64.057">
+    <testcase classname="Everi Entegrity WebApplication" name="login Functionlity" time="25.484">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given Lanuch Everi Entegrity Login page.....................................passed
+When verify UI element are Display..........................................passed
+And User Enter usernmae and password "login" Sheet and RowNumber 0..........passed
+Then Check whether page logged to homepage..................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="Everi Entegrity WebApplication" name="login Functionlity 2" time="38.421">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given Lanuch Everi Entegrity Login page.....................................passed
+When verify UI element are Display..........................................passed
+And User Enter usernmae and password "login" Sheet and RowNumber 1..........passed
+Then Check whether page logged to homepage..................................undefined
+]]></failure>
+    </testcase>
+</testsuite>
